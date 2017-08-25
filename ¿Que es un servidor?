@@ -1,0 +1,18 @@
+SERVIDOR A NIVEL SOFTWARE:
+
+En informática, un servidor es un tipo de software que realiza ciertas tareas en nombre de los usuarios. El término servidor ahora también se utiliza para referirse al ordenador físico en el cual funciona ese software, una máquina cuyo propósito es proveer datos de modo que otras máquinas puedan utilizar esos datos.
+Este uso dual puede llevar a confusión. Por ejemplo, en el caso de un servidor web, este término podría referirse a la máquina que almacena y maneja los sitios web, y en este sentido es utilizada por las compañías que ofrecen hosting o hospedaje. Alternativamente, el servidor web podría referirse al software, como el servidor de http de Apache, que funciona en la máquina y maneja la entrega de los componentes de los páginas web como respuesta a peticiones de los navegadores de los clientes.
+Los archivos para cada sitio de Internet se almacenan y se ejecutan en el servidor. Hay muchos servidores en Internet y muchos tipos de servidores, pero comparten la función común de proporcionar el acceso a los archivos y servicios.
+Un servidor sirve información a los ordenadores que se conecten a él. Cuando los usuarios se conectan a un servidor pueden acceder a programas, archivos y otra información del servidor.
+En la web, un servidor web es un ordenador que usa el protocolo http para enviar páginas web al ordenador de un usuario cuando el usuario las solicita.
+
+
+
+
+SERVIDOR A NIVEL HARDWARE:
+
+Un servidor es un ordenador u otro tipo de equipo informático encargado de suministrar información a una serie de clientes, que pueden ser tanto personas como otros dispositivos conectados a él. La información que puede transmitir es múltiple y variada: desde archivos de texto, imagen o vídeo y hasta programas informáticos, bases de datos, etc.
+Un servidor es un equipo informático que forma parte de una red y provee servicios a otros equipos cliente. Se denomina servidor dedicado, aquel que dedica todos sus recursos a atender solicitudes de los equipos cliente. Sin embargo un servidor compartido es aquel que no dedica todos sus recursos a servir las peticiones de los clientes, sino que también es utilizado por un usuario para trabajar de forma local.
+Existen gran cantidad de tipos de servidores o roles que estos pueden desempeñar. En la siguiente relación enumeramos algunos de los más comunes.
+El servidor dedicado es aquel que se encarga exclusivamente de atender solicitudes de los equipos clientes. Existen distintos servidores dependiendo de las funciones que estos vayan a desempeñar: servidor de archivo, que almacena y distribuye información, servidor de correo, aquel que sirve para gestionar las comunicaciones mediante el correo electrónico de la empresa así como para su almacenamiento, o servidor de fax, cuya función es la gestión de los envíos y recepciones de este tipo de comunicación.
+El servidor actúa como el gran cerebro del sistema informático de la empresa, pues constituye el elemento capaz de albergar la información necesaria para el funcionamiento de cada departamento. El server tiene una gran utilidad en el funcionamiento de la empresa, ya que es capaz de llevar a cabo funciones tanto de carácter físico (funcionamiento de las máquinas y los aparatos necesarios para la actividad empresarial) como a nivel de información, ya que registra, alberga y envía la información que los distintos clientes le van solicitando.
